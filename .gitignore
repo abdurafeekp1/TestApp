@@ -241,9 +241,6 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-git update-index --assume-unchanged App.config
-
-git rm --cached App.config
 
 
 
