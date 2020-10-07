@@ -242,7 +242,7 @@ ModelManifest.xml
 .fake/
 
 
-reset App.config
 
-rm --cached App.config
+
+*.config
 
