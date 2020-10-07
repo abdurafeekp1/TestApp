@@ -241,9 +241,9 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-git update-index --really-refresh App.config
+git update-index --really-refresh /App.config
 
-App.config
+/App.config
 
 
 
